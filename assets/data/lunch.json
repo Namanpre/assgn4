@@ -1,0 +1,18 @@
+{
+	"lunch": [{
+			"name": "Cobb Salad",
+			"price": 13.49,
+			"calories": 1150
+		},
+		{
+			"name": " Thai Chicken Wrap",
+			"price": 5.99,
+			"calories": 1340
+		},
+		{
+			"name": "Steak Sandwich",
+			"price": 11.99,
+			"calories": 900
+		}
+	]
+}

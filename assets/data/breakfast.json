@@ -1,0 +1,19 @@
+{
+	"breakfast": [
+		{
+			"name": "Gluten-Free Cereal",
+			"price": 3.99,
+			"calories": 110
+		},
+		{
+			"name": " English Muffin",
+			"price": 4.99,
+			"calories": 70
+		},
+		{
+			"name": "Freezer Sandwich",
+			"price": 2.99,
+			"calories": 280
+		}
+	]
+}
